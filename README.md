@@ -45,5 +45,4 @@ Word: __o__a_
 Good guess!
 ...
 Congratulations! You've guessed the word 'program' correctly!
-...
-Congratulations! You've guessed the word 'program' correctly!
+
