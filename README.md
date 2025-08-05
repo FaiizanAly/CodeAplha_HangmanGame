@@ -31,18 +31,6 @@ A simple text-based Hangman game in Python.
 - Guess a letter: `o`
 - Word: `__o__a_`
 - Good guess!
-- Welcome to Hangman Game!
-You have 6 incorrect guesses allowed.
-Word: _______
-Guess a letter: a
-Word: _____a_
-Good guess!
-Guess a letter: e
-Word: _____a_
-Oops! Wrong guess. You have 5 guesses left.
-Guess a letter: o
-Word: __o__a_
-Good guess!
 ...
 Congratulations! You've guessed the word 'program' correctly!
 
