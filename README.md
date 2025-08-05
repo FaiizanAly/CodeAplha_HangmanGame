@@ -1,4 +1,4 @@
-# CodeAlpha_Task1_HangmanGame
+# CodeAlpha_HangmanGame
 
 A simple text-based Hangman game in Python.
 
